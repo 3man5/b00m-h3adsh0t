@@ -175,9 +175,6 @@
     * Reveals user game states with information on player names, position, clip ammo, ammo count, health, class, weapons, frame rate and more.
   * Data from client will allow player to break game rules, manipulate server, or manipulate other clients
 
-
-  
-
 ---
 
 
