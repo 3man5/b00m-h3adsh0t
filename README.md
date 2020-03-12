@@ -313,5 +313,6 @@ B00m-h3adsh0t! is a single architecture neural network configurable aimbot for f
 * Paper Dynamic Bayesian Neytworks https://www.cs.ubc.ca/~murphyk/Papers/dbnchapter.pdf
 * Paper A Bayesian Model for Plan Recognition in RTS (Real Time Strategy) Games https://www.aaai.org/ocs/index.php/AIIDE/AIIDE11/paper/viewFile/4062/4416
 * Learning to Shoot in First Person Shooter Games by Stabilizing Actions and Clustering Rewards for Reinforcement Learning. https://arxiv.org/pdf/1806.05117.pdf
+* CS:GO external hack base https://github.com/NullTerminatorr/NullBase
 
 
