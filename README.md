@@ -13,7 +13,7 @@
 </div>
 
 ---   
-## Table_of_Contents &#x1F537;
+## Table of Contents &#x1F537;
 
 
 * [Motivation](#Motivation-)
@@ -43,7 +43,7 @@
 
 ---
 
-## Aimbot_Neural_Network &#x1F537;
+## Aimbot Neural Network &#x1F537;
 
 * **Trained by neural network (NN) with customizable predictions and dynamic speed settings**
 * Select which FPS game you will use 
@@ -62,7 +62,7 @@
   * Train with range of distances, lights, and angles for best possible recognition  
 ----
 
-## Neural_Network_Model_Training_Recognization &#x1F537;
+## Neural Network Model Training Recognition &#x1F537;
   
 **Deep Reinforcement Learning**
   * Allows bot to learn how to aim by interacting with its unknown 3D environment
@@ -87,7 +87,7 @@
 ---
 
 
-## Technical_How_Aimbot_Works &#x1F537;
+## How a normal aimbot works &#x1F537;
 
 * **Aimbot can be easily toggled on and off using the mouse or keyboard**
 * Recognizes game objects in a certain range, then aims at the objects using game physics
@@ -130,7 +130,7 @@
 
 ---
 
-## Technical_How_Aimbot_with_Neural_Network_Works &#x1F537;
+## How b00m-h3adsh0t works &#x1F537;
 
 * **Neural Network** 
 
@@ -156,7 +156,7 @@
 
 ---
 
-## Client-Server_Back-End_Implementation &#x1F537;
+## Client-Server Backend Implementation &#x1F537;
 
 * Computer has to display the gameplay to the user by rendering the whole map and every player in it
 
@@ -178,7 +178,7 @@
 ---
 
 
-## Security_and_Efficiency_Game_Server &#x1F537;
+## Security and Efficiency Game Server &#x1F537;
 
 * Server responsible for information security and enforcing game rules
 
@@ -193,7 +193,7 @@
 
 ---
 
-## Player_Behavior_Statistics &#x1F537;
+## Player Behavior Statistics &#x1F537;
 Refer to playerdata.h file 
 
 * **Aimbot Evaluation Metrics**
@@ -223,7 +223,7 @@ Refer to playerdata.h file
 
 ---
 
-## User_Privacy &#x1F537;
+## User Privacy &#x1F537;
 
 * **End–users concerned with privacy issues and "Never trust the client" is common saying with game developers**
 * VAC (Valve Anti-Cheat) accessing browsing history
@@ -241,7 +241,7 @@ Refer to playerdata.h file
 
 ---
 
-## Player_Attacks &#x1F537;
+## Player Attacks &#x1F537;
 
 * **Select button to attack and enable/disable training mode**
 * Custom zooming control with scroll wheel 
