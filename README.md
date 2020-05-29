@@ -1,3 +1,4 @@
+
 # b00m-h3adsh0t! &#x1F537;
 **Neural Network Configurable Aimbot for First-Person-Shooter Games in C/C++** *Note: Aimbots are cheats and illegal in gaming leagues. This repo is solely for educational purposes only.*
 
@@ -12,25 +13,22 @@
 
 </div>
 
----   
 ## Table of Contents &#x1F537;
+* [Motivation](https://github.com/lucylow/b00m-h3adsh0t#motivation-)
+* [Aimbot Neural Network](https://github.com/lucylow/b00m-h3adsh0t#aimbot-neural-network-)
+* [Neural Network Model Training Recognition](https://github.com/lucylow/b00m-h3adsh0t#neural-network-model-training-recognition-)
+* [How a normal aimbot works](https://github.com/lucylow/b00m-h3adsh0t#how-a-normal-aimbot-works-)
+* [How b00m-h3adsh0t works](https://github.com/lucylow/b00m-h3adsh0t#how-b00m-h3adsh0t-works-)
+* [Client-Server Backend Implementation](https://github.com/lucylow/b00m-h3adsh0t#client-server-backend-implementation-) 
+* [Security and Efficiency Game Server](https://github.com/lucylow/b00m-h3adsh0t#security-and-efficiency-game-server-)
+* [Player Behavior Statistics](https://github.com/lucylow/b00m-h3adsh0t#player-behavior-statistics-)
+* [User Privacy](https://github.com/lucylow/b00m-h3adsh0t#user-privacy-)
+* [Player Attacks](https://github.com/lucylow/b00m-h3adsh0t#player-attacks-) 
+* [Glitches and Modifications](https://github.com/lucylow/b00m-h3adsh0t#glitches-and-modifications-) 
+* [Conclusion](https://github.com/lucylow/b00m-h3adsh0t#conclusion-) 
+* [References](https://github.com/lucylow/b00m-h3adsh0t#references-) 
 
-
-* [Motivation](#Motivation-)
-* [Aimbot_Neural_Network](#Aimbot_Neural_Network-)
-* [Technical_How_Aimbot_Works](#Technical_How_Aimbot_Works-)
-* [Technical_How_Aimbot_with_Neural_Network_Works](#Technical_How_Aimbot_with_Neural_Network_Works-)
-* [Client-Server_Back-End_Implementation](#Client-Server_Back-End_Implementation-) 
-* [Security_and_Efficiency_Game_Server](#Security_and_Efficiency_Game_Server-)
-* [Player_Behavior_Statistics](#Player_Behavior_Statistics-)
-* [User_Privacy](#User_Privacy-)
-* [Player_Attacks](#Player_Attacks-) 
-* [Glitches_and_Modifications](#Glitches_and_Modifications-) 
-* [Conclusion](#Conclusion-) 
-* [References](#References-) 
-
----
-## Motivation &#x1F537;
+## Motivation
 * **B00m-h3adsh0t is a game bot software for first-person shooting (FPS) games** where players need to constantly move, think, strategize, and shoot enemies all at once. **Aimbot uses game data to automatically shoot at the heads of energy targets.**
 
 * **Personal motivation to learn C++ compiler programming language, object oriented programing, and how a FPS game executes on an operating system**. B00m-H3adsh0t is 100% written in C++ with Visual Studio compiler providing a very fast, and efficient framework with scripting support such that the framework uses a consistent object-oriented design
@@ -41,7 +39,6 @@
 
 
 
----
 
 ## Aimbot Neural Network &#x1F537;
 
@@ -60,7 +57,6 @@
 * **Custom training mode**
   * Leverage neural network to detect objects for object recognition using computer vision algorithms
   * Train with range of distances, lights, and angles for best possible recognition  
-----
 
 ## Neural Network Model Training Recognition &#x1F537;
   
@@ -82,9 +78,6 @@
   * Implementation options: 
     * libDAI - A free and open source C++ library for Discrete Approximate Inference in graphical models (C++)
     * Mocapy++ (C++) - A toolkit for inference and learning in dynamic Bayesian networks
-
-
----
 
 
 ## How a normal aimbot works &#x1F537;
@@ -128,8 +121,6 @@
   * Fine-tune with constants adjusting for any **dynamic data structure moving players** around on you
 
 
----
-
 ## How b00m-h3adsh0t works &#x1F537;
 
 * **Neural Network** 
@@ -153,9 +144,6 @@
       * GAME.cfg
       * GAME_last.weights 
       * GAME.weights
-
----
-
 ## Client-Server Backend Implementation &#x1F537;
 
 * Computer has to display the gameplay to the user by rendering the whole map and every player in it
@@ -175,9 +163,6 @@
     * Reveals user game states with information on player names, position, clip ammo, ammo count, health, class, weapons, frame rate and more.
   * Data from client will allow player to break game rules, manipulate server, or manipulate other clients
 
----
-
-
 ## Security and Efficiency Game Server &#x1F537;
 
 * Server responsible for information security and enforcing game rules
@@ -189,9 +174,6 @@
   * Results in faster display for  player under the same bandwidth constraints
   * Exposes  data to interception or manipulation
   * Trade-off between security and efficiency
-
-
----
 
 ## Player Behavior Statistics &#x1F537;
 Refer to playerdata.h file 
@@ -218,10 +200,6 @@ Refer to playerdata.h file
       ![](https://github.com/lucylow/b00m-h3adsh0t/blob/master/readme-images/gameplay2.png)
       
       *Image. Unusual player behavior leads to clientside creating then uploading a gamer report*
-  
-
-
----
 
 ## User Privacy &#x1F537;
 
@@ -234,12 +212,6 @@ Refer to playerdata.h file
   * Performed on client machine itself or via external communication proxy
   * Can provide player positions and other useful related information
   * Forged packets sent to server to move the player, shoot, or other game actions
-
-
-
-
-
----
 
 ## Player Attacks &#x1F537;
 
@@ -263,10 +235,6 @@ Refer to playerdata.h file
   * Control bullet spread
   * Correcting for bullet drop
 
-
----
-
-
 ## Glitches and Modifications &#x1F537;
 
 * Wall hacks
@@ -287,10 +255,6 @@ Refer to playerdata.h file
   * Glowing or lighted players, weapons, and loot. 
   * See all players at all times and plan ahead before making a kill
   * Show all information ex: player names, position, clip ammo, ammo count, health, class, weapons, frame rate and more
-
-
----
-
 ## Conclusion &#x1F537;
 
 B00m-h3adsh0t! is a single architecture neural network configurable aimbot for first-person shooting (FPS) games. We introduced a method to augment a deep reinforcement q-learning model with high-level game information, and feature implementation. We showed that b00m-h3adsh0t!  model is able to outperform built-in bots as well as human players and demonstrated the generalizability of our model to do game glitches and modifications. 
