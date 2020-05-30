@@ -262,6 +262,11 @@ B00m-h3adsh0t! is a single architecture neural network configurable aimbot for f
 
 ---
 
+## Donations
+Donations will help a lot in the development of this project.
+BTC - 1BPq4mEEFfgVmCAYB4CCqnYPBhUbWV5zPX
+ETH - 0x9b90c2d9933Bd0add6f8062f37796Cc5258a38E4
+
 ## References &#x1F537;
 
 * Machine Learning Paper. Aimbot Detection in Online FPS Games Using a Heuristic Method Based on Distribution Comparison Matrix: https://link.springer.com/chapter/10.1007/978-3-642-34500-5_77
