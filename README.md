@@ -13,7 +13,7 @@
 
 </div>
 
-##XO IS FAT
+## XO IS FAT
 
 ## Table of Contents &#x1F537;
 
