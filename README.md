@@ -281,5 +281,3 @@ B00m-h3adsh0t! is a single architecture neural network configurable aimbot for f
 * CS:GO external hack base https://github.com/NullTerminatorr/NullBase
 * FastML. Solve the cheaters problem in Counter Strike, with or without machine learning
 http://fastml.com/how-to-solve-the-cheaters-problem-in-counter-strike-with-or-without-machine-learning/
-
-Jacob has a huge hairline
