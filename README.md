@@ -264,8 +264,8 @@ B00m-h3adsh0t! is a single architecture neural network configurable aimbot for f
 
 ## Donations
 Donations will help a lot in the development of this project.
-BTC - 1BPq4mEEFfgVmCAYB4CCqnYPBhUbWV5zPX
-ETH - 0x9b90c2d9933Bd0add6f8062f37796Cc5258a38E4
+* BTC - 1BPq4mEEFfgVmCAYB4CCqnYPBhUbWV5zPX
+ * ETH - 0x9b90c2d9933Bd0add6f8062f37796Cc5258a38E4
 
 ## References &#x1F537;
 
