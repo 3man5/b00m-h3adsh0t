@@ -260,12 +260,8 @@ Refer to playerdata.h file
 
 B00m-h3adsh0t! is a single architecture neural network configurable aimbot for first-person shooting (FPS) games. We introduced a method to augment a deep reinforcement q-learning model with high-level game information, and feature implementation. We showed that b00m-h3adsh0t!  model is able to outperform built-in bots as well as human players and demonstrated the generalizability of our model to do game glitches and modifications. 
 
----
 
-## Donations &#x1F537;
-Donations will help a lot in the development of this project.
-* BTC - 1BPq4mEEFfgVmCAYB4CCqnYPBhUbWV5zPX
- * ETH - 0x9b90c2d9933Bd0add6f8062f37796Cc5258a38E4
+-------
 
 ## References &#x1F537;
 
